@@ -1,6 +1,6 @@
-# Simple and Efficient Calibration for Graph Neural Networks
+# The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework
 
-This repository contains an implementation of Simple and Efficient Calibration for Graph Neural Networks
+This repository contains an implementation of The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework
 Parameters
 ## Dependencies
 - CUDA 10.2.89
