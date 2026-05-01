@@ -1,6 +1,6 @@
-# The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework
+# Understanding and Mitigating Under-Confidence in GNNs from the Final Layer
 
-This repository contains an implementation of The Final Layer Holds the Key: A Unified and Efficient GNN Calibration Framework
+This repository contains an implementation of Understanding and Mitigating Under-Confidence in GNNs from the Final Layer
 Parameters
 ## Dependencies
 - CUDA 10.2.89
