@@ -1,4 +1,4 @@
-# Understanding and Mitigating Under-Confidence in GNNs from the Final Layer
+# Understanding and Mitigating Under-Confidence in GNNs from the Final Layer (NeurIPS 2026)
 
 This repository contains an implementation of Understanding and Mitigating Under-Confidence in GNNs from the Final Layer
 Parameters
